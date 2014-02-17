@@ -1,0 +1,7 @@
+c:\users\juan carlos\documents\visual studio 2012\Projects\ImageResizingService\ImageResizingService\bin\ImageResizingService.dll
+c:\users\juan carlos\documents\visual studio 2012\Projects\ImageResizingService\ImageResizingService\bin\ImageResizingService.pdb
+c:\users\juan carlos\documents\visual studio 2012\Projects\ImageResizingService\ImageResizingService\obj\Debug\ImageResizingService.csprojResolveAssemblyReference.cache
+c:\users\juan carlos\documents\visual studio 2012\Projects\ImageResizingService\ImageResizingService\obj\Debug\ImageResizingService.dll
+c:\users\juan carlos\documents\visual studio 2012\Projects\ImageResizingService\ImageResizingService\obj\Debug\ImageResizingService.pdb
+c:\users\juan carlos\documents\visual studio 2012\Projects\ImageResizingService\ImageResizingService\bin\ImageResizer.dll
+c:\users\juan carlos\documents\visual studio 2012\Projects\ImageResizingService\ImageResizingService\bin\ImageResizer.xml
